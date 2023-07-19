@@ -1,0 +1,55 @@
+
+body{
+    background-image: url(../Photos/best-fruits-1197259281-770x533-1-650x428.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-position: center center; */
+
+}
+
+h2{
+height:50px;
+width: 500px;
+text-align: center;
+font-family: cursive;
+background-color: red;
+background-repeat: no-repeat;
+background-position: center;
+border:  50px solid red;
+transition: 1s;
+}
+
+h2:hover{
+    height: 90px;
+    width: 900px;
+background-image: url(../Photos/2-2-2-3foodgroups_fruits_detailfeature.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+color: black;
+
+
+}
+h3{
+    width: 30px;
+    width: 300px;
+    text-align: center;
+    background-color: aqua;
+    background-size: cover;
+    border: 10px  red ;
+   border-style: solid; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
